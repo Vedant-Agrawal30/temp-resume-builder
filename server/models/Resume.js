@@ -54,7 +54,7 @@ const ResumeSchema = new mongoose.Schema({
     }
 ],
 
-eductaion:[
+education:[
         {
             institution:{type:String},
             degree:{type:String},

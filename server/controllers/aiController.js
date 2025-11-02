@@ -118,7 +118,7 @@ professional_summary:{
     }
 ],
 
-eductaion:[
+education:[
         {
             institution:{type:String},
             degree:{type:String},
