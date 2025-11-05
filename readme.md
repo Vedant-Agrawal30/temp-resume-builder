@@ -203,7 +203,7 @@ Deployed on **Render**
 **Vedant Agrawal**
 💼 Full Stack Developer | MERN | AI Integration Enthusiast
 📧 Email: [[vedantagrawal2904@gmail.com](mailto:vedantagrawal2904@gmail.com)]
-🔗 github : 
+🔗 github: [https://github.com/Vedant-Agrawal30/Resume-Builder-](https://github.com/Vedant-Agrawal30/Resume-Builder-)
 
 ---
 
