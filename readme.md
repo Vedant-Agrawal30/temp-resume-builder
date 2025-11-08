@@ -224,4 +224,8 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 > ⚡ *“Your dream job starts with a perfect resume — built smartly with AI.”*
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 1a7abf72b59812c7524c71422ce3c7c77232c469
