@@ -1,7 +1,7 @@
 # 🧠 AI Resume Builder
 
 The **AI Resume Builder** is an intelligent web application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** that allows users to **create, edit, and download professional resumes effortlessly**.
-Powered by **AI integration (OpenAI API)**, it can generate professional summaries, suggest skill improvements, and offer instant editing assistance.
+Powered by **AI integration (OpenAI API)**, it can generate professional summaries, suggest skill improvements, and offer instant editing assistance.In this be used Prebuilt UI react components for better and smooth design.
 Designed for job seekers, students, and professionals — this app combines **modern design**, **AI features**, and **real-time customization** to make resume creation smarter, faster, and easier.
 
 ---
@@ -203,8 +203,7 @@ Deployed on **Render**
 **Vedant Agrawal**
 💼 Full Stack Developer | MERN | AI Integration Enthusiast
 📧 Email: [[vedantagrawal2904@gmail.com](mailto:vedantagrawal2904@gmail.com)]
-🔗 github: [https://github.com/Vedant-Agrawal30/Resume-Builder-](https://github.com/Vedant-Agrawal30/Resume-Builder-)
-
+🔗 github: [[https://github.com/Vedant-Agrawal30/Resume-Builder-](https://github.com/Vedant-Agrawal30/Resume-Builder-)]
 ---
 
 ## 📜 License
