@@ -225,6 +225,3 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 > ⚡ *“Your dream job starts with a perfect resume — built smartly with AI.”*
 
 ---
-
-Would you like me to make this **README visually enhanced with emojis + centered banner/title** (like a modern GitHub README style with a logo, badges, and section dividers)?
-That would make it look even more premium and professional for recruiters and visitors.
